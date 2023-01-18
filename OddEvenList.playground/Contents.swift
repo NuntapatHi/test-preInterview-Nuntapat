@@ -1,5 +1,9 @@
 import Foundation
 
+/*
+ Read how to use description below class structure
+ */
+
 class OddEvenList<T>{
 
     var arrayList = [T]()
@@ -75,6 +79,10 @@ class OddEvenList<T>{
         }
     }
 }
+
+/*
+How to use
+*/
 
 //create new object and assign Int for genetic type
 let oddEvenList = OddEvenList<Int>()
