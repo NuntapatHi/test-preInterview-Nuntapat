@@ -15,7 +15,7 @@ Pre-Interview Question
 4.คุณหาเรียนรู้ภาษาหรือเฟรมเวิร์คที่ใช้จากที่ไหน
 - iOS development bootcamp course -> https://www.udemy.com/course/ios-13-app-development-bootcamp/#instructor-1
 - iOSAcademy -> https://www.youtube.com/@iOSAcademy
-- iOS stanford -> [https://www.youtube.com/watch?v=TZL5AmwuwlA&list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
+- Stanford iOS development class-> [https://www.youtube.com/watch?v=TZL5AmwuwlA&list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_](https://www.youtube.com/playlist?list=PL3d_SFOiG7_8ofjyKzX6Nl1wZehbdiZC_)
 
 5.เงินเดือนที่คุณต้องการ
 - คาดหวังที่ 25000 baht
